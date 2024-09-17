@@ -35,6 +35,7 @@ Make sure you have Python and the required library installed.
 Configuration files will be saved in the wg_config files folder in your Google Drive.
 
 # Script Details
+
 ## Functions
 
 #### 1. generate_key_pair():
