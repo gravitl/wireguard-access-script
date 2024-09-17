@@ -19,14 +19,14 @@ File Storage: Saves configuration files to a specified folder in Google Drive.
 Python 3.x
 python_wireguard library (install with pip install python_wireguard)
 
-# How to Use
+# How to Use 
 
 #### 1. Prepare Your Environment: 
 Make sure you have Python and the required library installed.
 
 #### 2. Run the Script:
 
-  Open the script in a Python environment (like a Jupyter notebook).
+  Open the script in a Python environment (like a Jupyter notebook or Google Collab).
   Execute the script.
   When prompted, enter the number of peers you want to configure.
   
